@@ -38,8 +38,6 @@ Perfect for:
 
 ---
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=JanhviAgrawal&theme=radical)
 
 ---
 
