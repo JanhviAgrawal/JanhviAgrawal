@@ -39,7 +39,7 @@ Perfect for:
 ---
 
 ### 📈 Graph
-[![Janhvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JanhviAgrawal&theme=radical)](https://github.com/JanhviAgrawal)
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=JanhviAgrawal&theme=radical&title=Graph)](https://github.com/JanhviAgrawal)
 
 ---
 
