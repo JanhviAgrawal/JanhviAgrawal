@@ -38,10 +38,7 @@ Perfect for:
 
 ---
 
-
----
-
-### 📈 Activity Graph
+### 📈 Graph
 [![Janhvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JanhviAgrawal&theme=radical)](https://github.com/JanhviAgrawal)
 
 ---
