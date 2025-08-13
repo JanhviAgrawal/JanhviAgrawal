@@ -1,7 +1,5 @@
 # Hey there, I'm Janhvi! 👋
 
-🚀 **Full-Stack Developer in the making** | Passionate about building web apps with modern tech | Always learning 🖥️✨
-
 ---
 
 ### 💫 About Me
@@ -10,6 +8,13 @@
 - 🌱 Exploring **React.js**, **Node.js**, and modern web tech
 - 🧩 Love solving real-world problems through code
 - ☕ Fueled by coffee and curiosity
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/janhvi-agrawal-j2004)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/JanhviAgrawal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/janhviagrawal_21)
 
 ---
 
@@ -43,9 +48,5 @@ Perfect for:
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/janhvi-agrawal-j2004)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/JanhviAgrawal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/janhviagrawal_21)
 
 ⭐ _Thanks for stopping by!_ 🚀
