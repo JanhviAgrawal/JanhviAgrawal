@@ -1,6 +1,5 @@
 # Hey there, I'm Janhvi! 👋
 
----
 
 ### 💫 About Me
 - 💻 Diving deep into **Full-Stack Development**
