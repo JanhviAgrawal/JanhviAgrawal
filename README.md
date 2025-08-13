@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Janhvi! 👋
 
-<!--
-**JanhviAgrawal/JanhviAgrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer in the making** | Passionate about building web apps with modern tech | Always learning 🖥️✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- 💻 Currently exploring **Full-Stack Development**
+- 📚 Learning & practicing **Data Structures and Algorithms with C++**
+- 🌱 Always curious about **modern tech stacks** and **best coding practices**
+- ☕ Runs on code and caffeine
+
+---
+
+## 📌 Featured Project
+
+### 📂 [DSA-with-CPP](https://github.com/YourUsername/DSA-with-CPP)
+A collection of **Data Structures and Algorithms** implementations in C++.  
+Perfect for:
+- Practicing core concepts
+- Preparing for coding interviews
+- Improving problem-solving skills
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** C++, JavaScript, HTML, CSS
+- **Currently Learning:** React.js, Node.js
+- **Tools:** Git, VS Code, GitHub
+
+---
+
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
+
+---
+⭐️ _Thanks for visiting my profile!_ 🚀
