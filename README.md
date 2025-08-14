@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F73C6B&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Janhvi!+👋;Full-Stack+Developer+in+the+making;Always+learning+and+building+✨" alt="Typing Animation" />
 </h1>
+
 ---
 
 ## 💫 About Me  
