@@ -1,23 +1,27 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F73C6B&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Janhvi!+👋;Full-Stack+Developer+in+the+making;Always+learning+and+building+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F73C6B&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Janhvi!+👋;Full-Stack+Developer+in+the+making;Always+learning+and+building+✨" alt="Typing Animation" />
 </h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 ---
 
 ## 💫 About Me  
+✨ Curious **Developer** passionate about problem-solving & clean code  
 💻 Diving deep into **Full-Stack Development**  
-📚 Practicing **Data Structures & Algorithms** in C++  
-🌱 Exploring **React.js**, **Node.js**, and modern web tech  
-🧩 Love solving real-world problems through code  
-☕ Fueled by coffee and curiosity  
+📚 Practicing **Data Structures & Algorithms (C++)**  
+⚡ Exploring **React.js**, **Node.js**, and modern web tech  
+☕ Fueled by coffee + creativity = endless code!  
 
 ---
 
-## 📌 Featured Project  
-**[📂 DSA-with-CPP](https://github.com/JanhviAgrawal/DSA-with-CPP)**  
-A growing collection of **Data Structures and Algorithms** implemented in C++.  
-Perfect for:  
+## 🚀 Featured Project  
+🌟 **[📂 DSA-with-CPP](https://github.com/JanhviAgrawal/DSA-with-CPP)**  
+🔹 A growing collection of **DSA implementations** in C++  
+🔹 Perfect for:  
 - Problem-solving practice  
 - Interview preparation  
 - Strengthening fundamentals  
@@ -25,34 +29,46 @@ Perfect for:
 ---
 
 ## 🛠 Tech Stack  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JanhviAgrawal&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanhviAgrawal&layout=compact&theme=radical" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JanhviAgrawal&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanhviAgrawal&layout=compact&theme=radical&hide_border=true&border_radius=12" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JanhviAgrawal&theme=radical&hide_border=true&border_radius=12" height="165" />
+</p>
 
 ---
 
-## 📫 Connect with Me  
+## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/janhvi-agrawal-j2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <a href="https://linkedin.com/in/janhvi-agrawal-j2004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/JanhviAgrawal">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" />
+  <a href="https://github.com/JanhviAgrawal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/janhviagrawal_21">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  <a href="https://instagram.com/janhviagrawal_21" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-⭐ _Thanks for visiting my profile!_ 🚀
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+</p>
