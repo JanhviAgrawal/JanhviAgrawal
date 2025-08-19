@@ -3,11 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F73C6B&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Janhvi!+👋;Full-Stack+Developer+in+the+making;Always+learning+and+building+✨" alt="Typing Animation" />
 </h1>
 
+<!-- Smooth Gradient Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F73C6B,100:6A5ACD&height=3&section=header&animation=fadeIn&reversal=true" width="80%" />
 </p>
-
----
 
 ## 💫 About Me  
 ✨ Curious **Developer** passionate about problem-solving & clean code  
@@ -16,7 +15,10 @@
 ⚡ Exploring **React.js**, **Node.js**, and modern web tech  
 ☕ Fueled by coffee + creativity = endless code!  
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:20B2AA&height=2&section=header&animation=fadeIn&reversal=true" width="70%" />
+</p>
 
 ## 🚀 Featured Project  
 🌟 **[📂 DSA-with-CPP](https://github.com/JanhviAgrawal/DSA-with-CPP)**  
@@ -26,7 +28,10 @@
 - Interview preparation  
 - Strengthening fundamentals  
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20B2AA,100:FFD700&height=2&section=header&animation=fadeIn&reversal=true" width="70%" />
+</p>
 
 ## 🛠 Tech Stack  
 
@@ -34,7 +39,10 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,git,github,vscode" />
 </p>
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:F73C6B&height=2&section=header&animation=fadeIn&reversal=true" width="70%" />
+</p>
 
 ## 📊 GitHub Stats  
 
@@ -47,7 +55,10 @@
   <img src="https://streak-stats.demolab.com?user=JanhviAgrawal&theme=radical&hide_border=true&border_radius=12" height="165" />
 </p>
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:F73C6B&height=2&section=header&animation=fadeIn&reversal=true" width="70%" />
+</p>
 
 ## 🌐 Connect with Me  
 <p align="center">
@@ -62,10 +73,9 @@
   </a>
 </p>
 
----
-
+<!-- Smooth Ending Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F73C6B,100:6A5ACD&height=3&section=footer&animation=fadeIn&reversal=true" width="80%" />
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
