@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F73C6B&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Janhvi!+👋;Full-Stack+Developer+in+the+making;Always+learning+and+building+✨" alt="Typing Animation" />
 </h1>
 
-<!-- Smooth Gradient Divider -->
+<!-- Full Width Gradient Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F73C6B,100:6A5ACD&height=3&section=header&animation=fadeIn&reversal=true" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F73C6B,50:6A5ACD,100:20B2AA&height=4&section=header&animation=fadeIn&reversal=true" width="100%" />
 </p>
 
 ## 💫 About Me  
@@ -17,7 +17,7 @@
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:20B2AA&height=2&section=header&animation=fadeIn&reversal=true" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,50:20B2AA,100:FFD700&height=3&section=header&animation=fadeIn&reversal=true" width="100%" />
 </p>
 
 ## 🚀 Featured Project  
@@ -30,7 +30,7 @@
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20B2AA,100:FFD700&height=2&section=header&animation=fadeIn&reversal=true" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20B2AA,50:FFD700,100:F73C6B&height=3&section=header&animation=fadeIn&reversal=true" width="100%" />
 </p>
 
 ## 🛠 Tech Stack  
@@ -41,7 +41,7 @@
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:F73C6B&height=2&section=header&animation=fadeIn&reversal=true" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:F73C6B,100:6A5ACD&height=3&section=header&animation=fadeIn&reversal=true" width="100%" />
 </p>
 
 ## 📊 GitHub Stats  
@@ -57,7 +57,7 @@
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:F73C6B&height=2&section=header&animation=fadeIn&reversal=true" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,50:20B2AA,100:F73C6B&height=3&section=header&animation=fadeIn&reversal=true" width="100%" />
 </p>
 
 ## 🌐 Connect with Me  
@@ -73,9 +73,9 @@
   </a>
 </p>
 
-<!-- Smooth Ending Divider -->
+<!-- Ending Gradient Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F73C6B,100:6A5ACD&height=3&section=footer&animation=fadeIn&reversal=true" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F73C6B,50:6A5ACD,100:20B2AA&height=4&section=footer&animation=fadeIn&reversal=true" width="100%" />
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
