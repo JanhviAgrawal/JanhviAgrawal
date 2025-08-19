@@ -37,12 +37,7 @@ Perfect for:
 
   <img src="https://github-readme-stats.vercel.app/api?username=JanhviAgrawal&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanhviAgrawal&layout=compact&theme=radical" height="165" />
-
-
----
-
-## 📈 Graph  
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=JanhviAgrawal&theme=radical&title=Graph)](https://github.com/JanhviAgrawal)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=JanhviAgrawal&theme=radical&title=Graph)](https://github.com/JanhviAgrawal)
 
 ---
 
